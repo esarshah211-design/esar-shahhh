@@ -1,0 +1,6 @@
+{
+  "name": "BURGER BITE – Fast Food Restaurant Peshawar",
+  "description": "Premium responsive restaurant website for BURGER BITE in Mian Gujar, Peshawar featuring burgers, shawarma, loaded fries, WhatsApp ordering, and location info.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
